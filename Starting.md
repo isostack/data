@@ -3,7 +3,7 @@
 
 Following is a schedule to learn data science step by step considering **4 hours** of dedicated, focused study every single day. This program is perfect for beginners with no knowledge of data science and programming.
 
-### Week 1 and 2: Excel and Statistics
+### Month 1 and : Excel and Statistics
 
 * Excel 
 	- Google templates gallery for personal finance etc : https://docs.google.com/spreadsheets/u/0/?ftv=1
@@ -17,7 +17,7 @@ Following is a schedule to learn data science step by step considering **4 hours
 	- Statistics by Marin : https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa
 	- Statquest youtube channel: https://www.youtube.com/user/joshstarmer
 
-### Week 3, 4, 5: BI tools
+### Month 2: BI tools
 
 * Tableau
   - Codebasics sales insights project: https://www.youtube.com/playlist?list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL
@@ -29,14 +29,14 @@ Following is a schedule to learn data science step by step considering **4 hours
   - codebasics sales insights project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
   - personal finance project: https://www.youtube.com/watch?v=pqSoCa2NGj4
   
-### Week 6 and 7: Python
+### Month 3: Python
 
 * Python
 	- Codebasics python tutorials (first 16) - https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
 	- Codebasics python HINDI tutorials - https://www.youtube.com/playlist?list=PLPbgcxheSpE1DJKfdko58_AIZRIT0TjpO
 	- Make sure to work on exercises in these folders: https://github.com/codebasics/py/tree/master/Basics/Hindi
 
-### Week 8, 9: Numpy, Pandas, Data Visualization Libraries  
+### Month 4: Numpy, Pandas, Data Visualization Libraries  
 
 * NumPy and Pandas
 	- Codebasics Numpy playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU
@@ -50,7 +50,7 @@ Following is a schedule to learn data science step by step considering **4 hours
 	- Notebooks: https://www.kaggle.com/notebooks
 	- Datasets: https://www.kaggle.com/datasets
 	
-### Week 10, 11, 12: SQL & MongoDB
+### Month 5: SQL & MongoDB
 
 * SQL
 	- kudavenkat playlist (first 16): https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
