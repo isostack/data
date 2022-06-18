@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=_eAl7vuVu3U
 ## Learn data analyst skills step by step in 3 months
 ------------------------------------------------------
 
